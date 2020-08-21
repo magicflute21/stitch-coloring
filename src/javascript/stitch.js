@@ -5,7 +5,7 @@ const c4 = document.getElementById('color4');
 const c5 = document.getElementById('color5');
 const colors = document.querySelectorAll('.palette__wrapper-colors');
 const items = document.querySelectorAll('.frame__grid-items');
-var color;
+let color;
 
 // pick a color from a palette
 
