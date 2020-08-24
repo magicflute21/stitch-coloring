@@ -1,5 +1,6 @@
 import '../scss/main.scss';
 import './stitch';
+import './switcher-button';
 
 // function a (){
 
